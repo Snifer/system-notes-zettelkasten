@@ -1,0 +1,57 @@
+/* ====== Tag Pills ======== */
+.tag:not(.token) {
+	background-color: var(--text-accent);
+	border: none;
+	color: white;
+	font-size: 12px;
+	padding: 1px 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0px 0px;
+	cursor: pointer;
+	border-radius: 15px;
+}
+.tag:not(.token):hover {
+	color: white;
+	background-color: var(--text-accent-hover);
+}
+.tag[href^="#"] {
+	background-color: #4d3ca6;
+}
+.tag[href^="#important"] {
+	background-color: red !important;
+}
+.tag[href^="#Completed"] {
+	background-color: blueviolet !important;
+}
+.tag[href^="#InProgress"] {
+	background-color: yellowgreen;
+}
+.tag[href^="#GTD"] {
+	background-color: skyblue;
+}
+.tag[href^="#SniferL4bs"] {
+	background-color: orange;
+}
+.tag[href^="#Article"] {
+	background-color: darkgoldenrod;
+}
+.tag[href^="#Video"] {
+	background-color: palevioletred;
+}
+.tag[href^="#Book"] {
+	background-color: darkblue;
+}
+.tag[href^="#Paper"] {
+	background-color: firebrick;
+}
+.tag[href^="#High"] {
+	background-color: red;
+}
+.tag[href^="#Medium"] {
+	background-color: orange;
+}
+.tag[href^="#Low"] {
+	background-color: green;
+}

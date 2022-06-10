@@ -1,0 +1,8 @@
+.table-view-table {
+    counter-reset: section;
+}
+
+.table-view-table > tbody > tr > td:first-child::before {
+    counter-increment: section;
+    content: counter(section) " ";
+}

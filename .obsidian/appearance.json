@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "Prism",
+  "enabledCssSnippets": [
+    "dashboard",
+    "font",
+    "sharetype",
+    "homepage setting media mobile",
+    "sidepane",
+    "tables-round",
+    "custom",
+    "cards"
+  ],
+  "theme": "obsidian"
+}

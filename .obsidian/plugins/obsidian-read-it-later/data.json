@@ -1,0 +1,23 @@
+{
+  "inboxDir": "Inbox",
+  "assetsDir": "ReadItLater Inbox/assets",
+  "openNewNote": false,
+  "youtubeNoteTitle": "Youtube - %title%",
+  "youtubeNote": "#Youtube\n\n# [%videoTitle%]\n\n\n%videoURL%\n\n",
+  "twitterNoteTitle": "Tweet from %tweetAuthorName% (%date%)",
+  "twitterNote": "#Tweet\n\n# [%tweetAuthorName%](%tweetURL%)\n\n%tweetContent%",
+  "parseableArticleNoteTitle": "%title%",
+  "parsableArticleNote": "#Inbox\n#ReadItLater\n#SniferL4bs\n\n# [%articleTitle%](%articleURL%)\n\n%articleContent%",
+  "notParseableArticleNoteTitle": "Article %date%",
+  "notParsableArticleNote": "[[ReadItLater]] [[Article]]\n\n[%articleURL%](%articleURL%)",
+  "textSnippetNoteTitle": "Notice %date%",
+  "textSnippetNote": "[[ReadItLater]] [[Textsnippet]]\n\n%content%",
+  "downloadImages": true,
+  "twitterDefaultTag": "#Tweet",
+  "youtubeDefaultTag": "#Youtube",
+  "articleDefaultTag": "#Article #Inbox",
+  "textsnippetDefaultTag": "@Textsnippet",
+  "preventTags": false,
+  "ytLinkOrEmbed": "EMBED",
+  "tweetLinkOrEmbed": "EMBED"
+}

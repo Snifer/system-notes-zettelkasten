@@ -1,0 +1,8 @@
+/*
+Central la tabla en formato preview
+*/
+
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+}

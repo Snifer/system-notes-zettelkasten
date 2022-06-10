@@ -1,0 +1,411 @@
+{
+  "choices": [
+    {
+      "id": "a560eca9-ab5b-4cae-a8c0-8d9683967ca0",
+      "name": "Library",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "a7f5c478-ff53-4907-8111-152036334a86",
+          "name": "📚 New Book",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.book.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "",
+              "Library/Books"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "preview"
+        },
+        {
+          "id": "c2a3dc75-79b3-4881-8090-9d2a71292ddf",
+          "name": "📽️ New Video",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.video.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Videos"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "preview"
+        },
+        {
+          "id": "0f03be30-b797-4426-9303-0faa7d450f4a",
+          "name": "📰 New Article ",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.article.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Article"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "41d97132-cc9e-44a9-b8de-6875c44187cd",
+          "name": "🎓 New  Course",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.course.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Course"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "preview"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "603f8174-28cb-4d0f-bb46-a979b04219b5",
+      "name": "Summary",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "e1b3e766-3202-47e5-a93e-6b312b5d0b21",
+          "name": "✍️ New Annotation",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.annotation.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Annotation"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "448bfe77-676a-458b-939f-ac702aff3c2f",
+          "name": "🔖 New Quote",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.quote.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Quote"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "764c95e2-ba3e-4a18-af86-0d8ab3ed88a6",
+          "name": "🗒️ New Extract",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.extract.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Extracts"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "5e5e27d8-9bd8-46a3-9cd7-2806444978bf",
+          "name": "🖼️ New Image",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.image.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Images"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "a5114417-cf54-437f-9eae-25d2e98b51a2",
+          "name": "🗂️ New Index",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.index.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Index"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "f697539c-c691-49a9-8f71-449a3da33ab7",
+          "name": "📝 New Document",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.document.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Documents"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "279dcfa2-5dce-4312-9a1f-3680798fac5a",
+          "name": "📎  New Reference",
+          "type": "Template",
+          "command": false,
+          "templatePath": "Templates/tpl.reference.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Library/Summary/Reference"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "NewBook",
+      "id": "9e5fd592-cbfc-4ba0-afa1-2a8134eee0d8",
+      "commands": [
+        {
+          "name": "LibraryTemplate",
+          "type": "NestedChoice",
+          "id": "d5131ba3-87d6-4236-ac7b-fee055efa047",
+          "choice": {
+            "id": "df853ff4-063b-4268-aac8-5492870c3321",
+            "name": "LibraryTemplate",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/tpl.library.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "source"
+          }
+        },
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "2ce8d819-0ee1-431d-90b5-83b78096886f",
+          "choice": {
+            "id": "8f8f3b5c-b927-4a8b-8c06-bf974bb6b915",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line"
+}

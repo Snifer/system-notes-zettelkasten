@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "d353772624cebe75",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9c77ed82dbf0ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Library/000 Library.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42bf9280c11f2a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb739323a1aba15",
+        "type": "tabs",
+        "dimension": 30.921704658077303,
+        "children": [
+          {
+            "id": "d02e6220dcd2845f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Index.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "da9918386f98a670",
+        "type": "tabs",
+        "dimension": 69.0782953419227,
+        "children": [
+          {
+            "id": "73fadd17c29353e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "40d21c2632e07b7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb9956fe647de07a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.00377655029297
+  },
+  "right": {
+    "id": "c8a13d38502f2423",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f80c5fb61f56df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c06e010e844738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Library/000 Library.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a5fa2e51236c09d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Library/000 Library.md"
+              }
+            }
+          },
+          {
+            "id": "48b6ea87237c3c51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 850,
+    "collapsed": true
+  },
+  "active": "9a9c77ed82dbf0ab",
+  "lastOpenFiles": [
+    "Library/000 Library.md",
+    "Templates/Index.md",
+    "Library/Videos/000 Library.md",
+    "Templates/Attachments/banner.png",
+    "Library/Books/persona normal.md",
+    "Library/Summary/Quote/el significado de las palabras.md",
+    "Library/000 Articles.md",
+    "Library/000 Books.md",
+    "Library/Summary.md",
+    "Library/Summary/Quote/significado de las palabras.md"
+  ]
+}

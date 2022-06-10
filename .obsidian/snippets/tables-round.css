@@ -1,0 +1,67 @@
+    /* --------------------------------------------   */
+    /* Latex table-layout:  */
+    /* https://forum.obsidian.md/t/custom-css-for-tables-5-new-styles-ready-to-use-in-your-notes/17084/3                         */
+    /* --------------------------------------------   */
+
+    .academia table {
+    	border-collapse: collapse;
+    	border-spacing: 0;
+    	width: auto;
+    	/*max-width: 100%;*/
+    	border-top: 2.27px solid black;
+    	border-bottom: 2.27px solid black;
+    	overflow-x: auto;	
+    	box-shadow: 0 0 20px rgba(12, 39, 28, 0.15);
+    }
+    .academia th,
+    .academia td {
+    	border: 0 none;
+    	padding: 0.51rem;
+    	line-height: 1.1;
+    }
+    .academia table > tbody > tr:first-child > td,
+    .academia table > tbody > tr:first-child > th {
+    	border-top: 1.36px solid black;
+    }
+    .academia table > tbody > tr:last-child > td,
+    .academia table > tbody > tr:last-child > th {
+    	border-bottom: 1.36px solid black;
+    }
+    .academia thead th {
+        background-color: black !important;
+        font-weight: 700;    
+        padding: 8px 9px 8px 9px;
+        font-size: 1.9em;
+    }
+    .academia tr:nth-child(even) {
+          background-color: #121328 ;
+    }
+    .academia tbody tr:hover td {
+    	background-color: #0c271c;
+    }
+    /* --------------------------------------------   */
+    .academia-rounded table {
+        border-collapse: separate;
+        border: solid #1b1904 1px;
+        border-radius: 6px;
+        border-spacing: 0px;
+    }
+    .academia-rounded table > tbody > tr > td {
+    	border-bottom: 1px solid #080a27;
+    }
+    .academia-rounded table > tbody > tr:last-child > td {
+    	border-bottom: thin #080a27;
+    }
+    .academia-rounded table th:first-of-type{
+    	border-top-left-radius: 6px;
+    }
+    .academia-rounded table th:last-of-type{
+    	border-top-right-radius: 6px;
+    }
+    .academia-rounded table tr:last-child td:first-child {
+        border-bottom-left-radius: 5px;
+    }
+    .academia-rounded table tr:last-child td:last-child {
+        border-bottom-right-radius: 5px;
+    }
+    /* --------------------------------------------   */

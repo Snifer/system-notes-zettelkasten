@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": false,
+    "enableFontawesomeBrands": false,
+    "fontSize": 16,
+    "iconColor": null,
+    "extraPadding": {
+      "top": 0,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "recentlyUsedIcons": [
+      "RiTreasureMapFill",
+      "RiTwitchFill",
+      "RiGitRepositoryCommitsLine",
+      "RiFileDamageLine",
+      "RiCalendarEventLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "rules": []
+  },
+  "DailyNote": "RiStickyNoteLine",
+  "Inbox": "RiInboxLine",
+  "Kanban": "RiKeyboardFill",
+  "Knowledge": "RiAwardLine",
+  "Tasks": "RiTaskLine",
+  "Tweets.md": "RiTwitterFill",
+  "Notes/MindMaps": "RiMapPin4Fill",
+  "PDF": "RiFilePdfLine",
+  "SniferL4bs": "RiUserLocationFill",
+  "Templates": "RiTreasureMapFill",
+  "Notes/PentestCheat/Mobile": "RiSdCardFill",
+  "Notes/PentestCheat/Mobile/Android": "RiCellphoneFill",
+  "TEMPORAL/Buttons.md": "RiRadioButtonFill",
+  "images": "RiFileDamageLine",
+  "export": "RiGitRepositoryCommitsLine",
+  "Calendar/Twitch": "RiTwitchFill",
+  "Calendar/SniferL4bs": "RiSignalTowerLine",
+  "Calendar/Youtube": "RiYoutubeFill",
+  "Library": "RiBook2Line"
+}

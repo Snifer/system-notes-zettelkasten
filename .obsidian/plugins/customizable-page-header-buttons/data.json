@@ -1,0 +1,39 @@
+{
+  "enabledButtons": [
+    {
+      "id": "app:go-back",
+      "icon": "left-arrow-with-tail",
+      "name": "Navigate back",
+      "showButtons": "both"
+    },
+    {
+      "id": "app:go-forward",
+      "icon": "right-arrow-with-tail",
+      "name": "Navigate forward",
+      "showButtons": "both"
+    },
+    {
+      "id": "homepage:open-homepage",
+      "icon": "lucide-home",
+      "name": "Homepage: Open homepage",
+      "showButtons": "both"
+    },
+    {
+      "id": "quickadd:choice:a560eca9-ab5b-4cae-a8c0-8d9683967ca0",
+      "icon": "lucide-library",
+      "name": "QuickAdd: Library",
+      "showButtons": "both"
+    },
+    {
+      "id": "obsidian-hotkeys-for-specific-files:Library/Summary.md",
+      "icon": "lucide-table",
+      "name": "Hotkeys for specific files: Open Library/Summary",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}
