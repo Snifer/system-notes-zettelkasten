@@ -69,7 +69,6 @@ columns:
       - { label: "Course", backgroundColor: "hsl(102, 95%, 90%)"}
       - { label: "📝 Document", backgroundColor: "hsl(336, 95%, 90%)"}
       - { label: "💭 Quote", backgroundColor: "hsl(224, 95%, 90%)"}
-      - { label: "📽️ Video", backgroundColor: "hsl(133, 95%, 90%)"}
       - { label: "🖼️ Image", backgroundColor: "hsl(93, 95%, 90%)"}
     config:
       enable_media_view: true

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9c77ed82dbf0ab",
+        "id": "f47da4c97475b2fa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "database-plugin",
           "state": {
-            "file": "Library/000 Library.md",
-            "mode": "preview"
+            "file": "Library/Summary.md"
           }
         }
       }
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/000 Library.md",
+                "file": "Library/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/000 Library.md"
+                "file": "Library/Summary.md"
               }
             }
           },
@@ -135,17 +134,17 @@
     "width": 850,
     "collapsed": true
   },
-  "active": "9a9c77ed82dbf0ab",
+  "active": "f47da4c97475b2fa",
   "lastOpenFiles": [
-    "Library/000 Library.md",
-    "Templates/Index.md",
-    "Library/Videos/000 Library.md",
-    "Templates/Attachments/banner.png",
-    "Library/Books/persona normal.md",
+    "Library/Summary.md",
     "Library/Summary/Quote/el significado de las palabras.md",
+    "Library/Books/persona normal.md",
     "Library/000 Articles.md",
     "Library/000 Books.md",
-    "Library/Summary.md",
-    "Library/Summary/Quote/significado de las palabras.md"
+    "Library/000 Courses.md",
+    "Library/000 Videos.md",
+    "Library/000 Library.md",
+    "Templates/tpl.video.md",
+    "Templates/Index.md"
   ]
 }

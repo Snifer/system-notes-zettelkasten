@@ -6,7 +6,7 @@ banner_y: 0.516
 Status: 
 ---
 # Articles
-- [[Library/Videos/000 Library|🗄️ Library]]
+- [[000 Library|🗄️ Library]]
 - [[000 Books|📚 Books]]
 - [[000 Articles|📖 Articles]]
 - [[000 Courses|📚 Courses]]
@@ -24,7 +24,7 @@ action QuickAdd: Library
 
 ```dataview
 TABLE without id 
-  ("![cover|90](" + Cover + ")") as Cover,
+  ("![banner|90](" + banner + ")") as Cover,
   file.link AS "Title",
   Author AS "Author",
   Type, 

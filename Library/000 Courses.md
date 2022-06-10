@@ -5,7 +5,7 @@ banner_icon: 📚
 banner_y: 0.132
 ---
 # Courses
-- [[Library/Videos/000 Library|🗄️ Library]]
+- [[000 Library|🗄️ Library]]
 - [[000 Books|📚 Books]]
 - [[000 Articles|📖 Articles]]
 - [[000 Courses|📚 Courses]]

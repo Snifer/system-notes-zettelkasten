@@ -3,10 +3,11 @@ cssclass: academia, academia-rounded, cards, dashboard
 banner: "https://www.cyborgservices.in/wp-content/uploads/2017/11/video-banner-1.png"
 banner_icon: 📹
 banner_y: 0.36
+Author: 
 ---
 
-# Articles
-- [[Library/Videos/000 Library|🗄️ Library]]
+# Videos
+- [[000 Library|🗄️ Library]]
 - [[000 Books|📚 Books]]
 - [[000 Articles|📖 Articles]]
 - [[000 Courses|📚 Courses]]
@@ -24,7 +25,7 @@ action QuickAdd: Library
 
 ```dataview
 TABLE without id 
-  ("![cover|90](" + Cover + ")") as Cover,
+  ("![banner|90](" + banner + ")") as Cover,
   file.link AS "Title",
   Author AS "Author",
   Type, 

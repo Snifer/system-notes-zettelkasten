@@ -24,7 +24,7 @@ action QuickAdd: Library
 
 ```dataview
 TABLE without id 
-  ("![cover|50](" + banner + ")") as Cover,
+  ("![banner|50](" + banner + ")") as Cover,
 
   file.link AS "Title",
   Author AS "Author",

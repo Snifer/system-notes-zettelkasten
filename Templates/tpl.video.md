@@ -3,7 +3,7 @@ cssclass: academia, academia-rounded, center
 Title: <% tp.system.prompt("Title Video", "")%>
 Author: 
 Status:  <%tp.system.suggester(["Not Started", "In Progress", "Completed"], ["Not Started", "In Progress", "Completed"])%>
-Type: 📽️ Video
+Type: Video
 Tag:
 Created: <%tp.date.now("MM-DD-YYYY", 7)%>
 banner: "<%tp.system.prompt("Miniature Video URL", "")%>"
